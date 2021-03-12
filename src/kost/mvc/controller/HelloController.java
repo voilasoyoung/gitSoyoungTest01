@@ -12,5 +12,6 @@ public class HelloController {
 	}
 	public void cc() {
 		System.out.println("안녕하세요");
+		System.out.println("아 여기에 추가하면 충돌이,,");
 	}
 }
