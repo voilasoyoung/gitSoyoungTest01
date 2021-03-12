@@ -10,4 +10,7 @@ public class HelloController {
 	public void bb() {
 		System.out.println("안녕하세요");
 	}
+	public void cc() {
+		System.out.println("안녕하세요");
+	}
 }
